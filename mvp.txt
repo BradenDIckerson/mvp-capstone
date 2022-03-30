@@ -1,0 +1,15 @@
+
+Idea: A schedual/activities tracker website. 
+MVP:
+- map element
+- you can store elements on a map. 
+- stores annual things to do in a database
+- calandar
+- todo  list of things that can be marked off on 
+- a graph or other kinda data visualization that can be used to show how often you stick to the schedual. 
+- Goal making tab/display
+
+Future Features:
+- Private and buisness coop cordination between multiple people.
+- Can save websites as tabs to quickly go to where you need to go(Similar to how google does it on the home page. Or the bookmarks.)
+- Notifications for when its time to do something. 
